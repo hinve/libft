@@ -12,3 +12,10 @@ libft/
 ├── libft.h           # Librería
 └── Makefile          # Script para la compilación
 ```
+## Uso
+Para usar la librería en tu propio proyecto:
+1. Clona el repositorio en tu máquina:
+   ```
+   $ git clone https://github.com/hinve/libft.git
+   $ cd libft
+   ```
