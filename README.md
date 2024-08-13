@@ -24,3 +24,5 @@ Para usar la librería en tu propio proyecto:
    $ make
    ```
 3. Incluye la librería en tu proyecto enlazándola durante la compilación. Asegurate de incluir el archivo de cabecera **libft.h** en los archivos de tu proyecto donde necesites las funciones de la librería.
+## Contribuciones
+Este proyecto es principalmente para mi aprendizaje personal, pero si tienes sugerencias o mejoras, no dudes en contactar conmigo al respecto :).
