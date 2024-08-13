@@ -6,7 +6,9 @@ El objetivo principal es replicar un montón de funciones ya existentes desarrol
 - Funciones adicionales útiles como manejo de listas enlazadas, manipulación de memoria y otras utilidades.
 - Creación y uso de un Makefile para compilar la librería de manera eficiente.
 ## Estructura del proyecto
+'
 libft/
 ├── ft_*.c            # Implementación de las funciones
 ├── libft.h           # Librería
 └── Makefile          # Script para la compilación
+'
