@@ -5,7 +5,7 @@ The main objective is to replicate a bunch of existing functions developed by yo
 - Implementation of standard C functions like strlen, atoi, memset, among others.
 - Additional useful functions such as linked list handling, memory manipulation, and other utilities.
 - Creation and use of a Makefile to compile the library efficiently.
-## Estructura del proyecto
+## Project structure
 ```
 libft/
 ├── ft_*.c            # Implementation of the functions.
