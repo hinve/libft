@@ -10,7 +10,8 @@ The main objective is to replicate a bunch of existing functions developed by yo
 libft/
 ├── ft_*.c            # Implementation of the functions.
 ├── libft.h           # Library.
-└── Makefile          # Compilation scripts.
+├── Makefile          # Compilation scripts.
+└── README.md         # Project description.
 ```
 ## Usage
 To use the library in your own project:
