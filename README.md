@@ -19,3 +19,8 @@ Para usar la librería en tu propio proyecto:
    $ git clone https://github.com/hinve/libft.git
    $ cd libft
    ```
+2. Compila la libreria:
+   ```
+   $ make
+   ```
+3. Incluye la librería en tu proyecto enlazándola durante la compilación. Asegurate de incluir el archivo de cabecera **libft.h** en los archivos de tu proyecto donde necesites las funciones de la librería.
