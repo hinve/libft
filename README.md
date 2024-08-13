@@ -1,28 +1,28 @@
 # Libft ->The first 42 cursus project <-
-**Libft** es un proyecto de 42 schools que consiste en la creación de una libreria en **C**.
-El objetivo principal es replicar un montón de funciones ya existentes desarrolladas por uno mismo, además de      funciones adicionales que serán muy útiles a lo largo del curso en cuestión. Además de crear las funciones         aprendí a crear **librerías** y a usar **Makefile**.
-## Características
-- Implementación de funciones estándar en C como **strlen**, **atoi**, **memset**, entre otras.
-- Funciones adicionales útiles como manejo de listas enlazadas, manipulación de memoria y otras utilidades.
-- Creación y uso de un Makefile para compilar la librería de manera eficiente.
+**Libft** is a project from 42 schools that involves creating a library in **C**.
+The main objective is to replicate a bunch of existing functions developed by yourself, as well as additional functions that will be very useful throughout the course. In addition to creating the functions, I learned how to create **libraries** and how to use **Makefile**.
+## Features
+- Implementation of standard C functions like strlen, atoi, memset, among others.
+- Additional useful functions such as linked list handling, memory manipulation, and other utilities.
+- Creation and use of a Makefile to compile the library efficiently.
 ## Estructura del proyecto
 ```
 libft/
-├── ft_*.c            # Implementación de las funciones
-├── libft.h           # Librería
-└── Makefile          # Script para la compilación
+├── ft_*.c            # Implementation of the functions.
+├── libft.h           # Library.
+└── Makefile          # Compilation scripts.
 ```
-## Uso
-Para usar la librería en tu propio proyecto:
-1. Clona el repositorio en tu máquina:
+## Usage
+To use the library in your own project:
+1. Clone the repository to your machine
    ```
    $ git clone https://github.com/hinve/libft.git
    $ cd libft
    ```
-2. Compila la libreria:
+2. Compile the **library**
    ```
    $ make
    ```
-3. Incluye la librería en tu proyecto enlazándola durante la compilación. Asegurate de incluir el archivo de cabecera **libft.h** en los archivos de tu proyecto donde necesites las funciones de la librería.
-## Contribuciones
-Este proyecto es principalmente para mi aprendizaje personal, pero si tienes sugerencias o mejoras, no dudes en contactar conmigo al respecto :).
+3. Include the library in your project by linking it during compilation. Make sure to include the **libft.h** header file in the files of your project where you need the library functions.
+## Contributions
+This project is mainly for my personal learning, but if you have any suggestions or improvements, feel free to contact me about it :).
