@@ -1,29 +1,32 @@
-# Libft ->The first 42 cursus project <-
-**Libft** is a project from 42 schools that involves creating a library in **C**.
-The main objective is to replicate a bunch of existing functions developed by yourself, as well as additional functions that will be very useful throughout the course. In addition to creating the functions, I learned how to create **libraries** and how to use **Makefile**.
-## Features
-- Implementation of standard C functions like strlen, atoi, memset, among others.
-- Additional useful functions such as linked list handling, memory manipulation, and other utilities.
-- Creation and use of a Makefile to compile the library efficiently.
-## Project structure
+# Libft -> El primer proyecto del cursus de 42 <-
+
+**Libft** es un proyecto de la escuela 42 que consiste en crear una biblioteca en **C**. 
+El objetivo principal es replicar una serie de funciones estándar desarrolladas por ti mismo, así como funciones adicionales que serán muy útiles a lo largo del curso. Además de crear las funciones, aprendí a crear **bibliotecas** y a usar **Makefile**.
+
+## Características
+- Implementación de funciones estándar de C como `strlen`, `atoi`, `memset`, entre otras.
+- Funciones adicionales útiles, como manejo de listas enlazadas, manipulación de memoria y otras utilidades.
+- Creación y uso de un **Makefile** para compilar la biblioteca de manera eficiente.
+
+## Estructura del proyecto
 ```
 libft/
-├── ft_*.c            # Implementation of the functions.
-├── libft.h           # Library.
-├── Makefile          # Compilation scripts.
-└── README.md         # Project description.
+├── ft_*.c # Implementación de las funciones.
+├── libft.h # Cabecera de la biblioteca.
+├── Makefile # Scripts de compilación.
+└── README.md # Descripción del proyecto.
 ```
-## Usage
-To use the library in your own project:
-1. Clone the repository to your machine
+## Uso
+Para usar la biblioteca en tu propio proyecto:
+1. Clona el repositorio en tu máquina:
    ```
    $ git clone https://github.com/hinve/libft.git
    $ cd libft
    ```
-2. Compile the **library**
+2. Compila la **biblioteca**:
    ```
    $ make
    ```
-3. Include the library in your project by linking it during compilation. Make sure to include the **libft.h** header file in the files of your project where you need the library functions.
-## Contributions
-This project is mainly for my personal learning, but if you have any suggestions or improvements, feel free to contact me about it :).
+3. Incluye la biblioteca en tu proyecto enlazándola durante la compilación. Asegúrate de incluir el archivo de cabecera **libft.h** en los archivos de tu proyecto donde necesites las funciones de la biblioteca.
+## Contribuciones
+Este proyecto es principalmente para mi aprendizaje personal, pero si tienes alguna sugerencia o mejora, no dudes en contactarme :).
